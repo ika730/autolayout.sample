@@ -1,8 +1,9 @@
 //
 //  ViewController.swift
 //  autolayout.sample
+//基本的に制約エラーは全部直しておくべき
 //
-//  Created by 中川こうすけ on 2023/06/06.
+//
 //
 
 import UIKit
